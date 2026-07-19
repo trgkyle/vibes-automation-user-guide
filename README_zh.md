@@ -2,7 +2,7 @@
 
 # 🚀 Vibes 自动化 v1.0.9 - Vibes.ai AI 自动化 [![English](https://img.shields.io/badge/English-blue)](README.md) [![Tiếng Việt](https://img.shields.io/badge/Tiếng%20Việt-green)](README_vi.md)
 
-**Vibes Automation** 是一款生产力工具，用于在 Vibes.ai 上自动化您的创作流程。告别手动逐个输入提示词——实现流程自动化，大规模生成视频和图片。
+**Vibes Automation** 是一款强大的 Chrome 扩展程序，旨在完全自动化 **Vibes.ai** 平台上的批量视频和图像生成。它允许您大规模运行多个提示词，构建和自定义高级工作流程，并自动下载生成的内容 —— 所有这一切只需极少的人工干预。
 
 -----
 

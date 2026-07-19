@@ -2,7 +2,7 @@
 
 # 🚀 Vibes Automation v1.0.9 - Tự động hóa Vibes.ai AI [![English](https://img.shields.io/badge/English-blue)](README.md) [![中文](https://img.shields.io/badge/中文-red)](README_zh.md)
 
-**Vibes Automation** là công cụ năng suất tự động hóa quy trình sáng tạo của bạn trên Vibes.ai. Dừng việc nhập từng prompt thủ công—tự động hóa quy trình và tạo video, ảnh ở quy mô lớn.
+**Vibes Automation** là một tiện ích Chrome mạnh mẽ được thiết kế để tự động hóa hoàn toàn việc tạo video và hình ảnh hàng loạt trên nền tảng **Vibes.ai**. Tiện ích cho phép bạn chạy nhiều prompt ở quy mô lớn, xây dựng và tùy chỉnh các quy trình nâng cao, và tự động tải xuống nội dung được tạo ra — tất cả với nỗ lực thủ công tối thiểu.
 
 -----
 

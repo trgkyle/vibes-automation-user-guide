@@ -2,7 +2,7 @@
 
 # 🚀 Vibes Automation v1.0.9 - Vibes.ai AI Automation [![Tiếng Việt](https://img.shields.io/badge/Tiếng%20Việt-green)](README_vi.md) [![中文](https://img.shields.io/badge/中文-red)](README_zh.md)
 
-**Vibes Automation** is a productivity tool that automates your creative workflow on Vibes.ai. Stop manually entering prompts one by one—automate the process and generate videos and images at scale.
+**Vibes Automation** is a powerful Chrome extension designed to fully automate batch video and image generation on **Vibes.ai**. It allows you to run multiple prompts at scale, build and customize advanced workflows, and automatically download generated content — all with minimal manual effort.
 
 -----
 
